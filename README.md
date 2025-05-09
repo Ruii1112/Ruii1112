@@ -15,4 +15,4 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,gradle,jenkins,selenium" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,idea,vscode,linux,gradle,jenkins,selenium" /> <br /><br />
