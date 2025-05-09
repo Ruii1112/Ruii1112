@@ -1,16 +1,21 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Ruii1112/Ruii1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a web backend developer from Japan
 
-Here are some ideas to get you started:
+2. My favorites are Java, Python, PHP, Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. You can find my Qiita Blog [here](https://qiita.com/ruuuuu)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Ruii1112)
+
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,php,py" /> <br /><br />
+
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=laravel,jquery,spring,tailwind,django" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,gradle,jenkins,selenium" /> <br /><br />
